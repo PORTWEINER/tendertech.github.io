@@ -109,7 +109,7 @@
       }
     ],
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "on",
+    "robotsSwitcher": "",
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
     "favicon": "",
